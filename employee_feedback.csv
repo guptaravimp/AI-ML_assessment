@@ -1,0 +1,9 @@
+Employee_ID,Feedback,Department,Job_Role,Salary,Work_Hours_Per_Week,Attrition
+1,I feel valued and enjoy my work.,HR,Manager,70000,40,No
+2,Workload is overwhelming.,IT,Engineer,60000,50,Yes
+3,Great team and work culture!,Marketing,Executive,50000,42,No
+4,No growth opportunities here.,IT,Developer,65000,45,Yes
+5,I get recognition for my work.,Finance,Analyst,72000,38,No
+6,Toxic work environment.,IT,Engineer,58000,52,Yes
+7,"Flexible work hours, I love it.",HR,HR Coordinator,55000,36,No
+8,Salary is too low for my efforts.,Finance,Consultant,63000,48,Yes
